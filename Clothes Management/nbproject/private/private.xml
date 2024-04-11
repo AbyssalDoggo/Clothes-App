@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/web/admin.jsp</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/LoginController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/CreateUserController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/object/User.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/CreateClothesController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/EditCartController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/web/user3.jsp</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/DeleteOrderController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/DeleteClothesController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/CheckOutController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/AddCartController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/RemoveCartController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/ManageClothesController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/UpdateClothesController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/SearchController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/SearchController2.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/UpdateClothesController2.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/utils/DBUtils.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/ManageOrderController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/web/login.jsp</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/DeleteUserController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/web/user.jsp</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/object/DAO.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/UpdateUserController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/RegisterController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/web/cart.jsp</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/object/Order.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/MainController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/object/Clothes.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/controller/ManageUserController.java</file>
+            <file>file:/C:/Users/ADMIN/Documents/NetBeansProjects/PRJ301_3W_PROJECT/src/java/sample/object/Cart.java</file>
+        </group>
+    </open-files>
+</project-private>
